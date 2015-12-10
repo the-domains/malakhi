@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Malakhi]]></title>
         <description><![CDATA[Malakhi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/malakhi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 Nov 2015 06:45:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Dec 2015 04:43:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/malakhi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Artist Statement]]></title>
+            <description><![CDATA[<article><h1>Artist Statement</h1><p>"The creative process, from concept to completion, is truly my passion. The experience of completing a project can only be described in one way: it is like turning myself inside out. Exposing my thoughts, beliefs, and emotions for the entire world to see. My creative process is split in half between concept and completion. The journey of how I get from one to the other is the “Magical Experience” for me as an artist in this medium. Guided only by my wild internal eye that when opened sees the world from inside out. Allowing me to articulate my thoughts, moods, and examine some of my belief systems. This vision also permits me to capture defining moments that are caught in a fleeting moment of time delicately pressed up against an eternity of moving life seconds. My need is to capture and preserve before extinction erases. I am a storyteller. My tools are photography, filmmaking, and the written word." -Malakhi Simmons </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82754301e59b25f3f66665624d3fba23f3aa66cb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/malakhi/artist-statement/index.html</link>
+            <guid isPermaLink="false">a74f6be4-8cbd-4415-b903-52b51452ef78</guid>
+            <pubDate>Thu, 10 Dec 2015 04:43:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Biography ]]></title>
             <description><![CDATA[<article><h1>Biography </h1><p>Roland “Malakhi” Simmons, better known to his friends as “Malakhi”, was born in
@@ -19,7 +26,7 @@ professional job as a soundman. Through the years his various duties on set woul
 While continuing to work under the tutelage of his father and Moss, Malakhi inherited a
 passion for educational films and was inspired early on to create works rich in substance and
 purpose.</p></article>]]></description>
-            <link>undefinedbiography/index.html</link>
+            <link>https://thegrid.ai/malakhi/biography/index.html</link>
             <guid isPermaLink="false">d5470ce8-08c1-476a-8b85-e821096adfed</guid>
             <pubDate>Thu, 26 Nov 2015 06:45:23 GMT</pubDate>
         </item>
