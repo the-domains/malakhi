@@ -1,28 +1,40 @@
-name: Malakhi
-favicon: null
-layout_spectrum: 0.4851064
-typography_spectrum: 0.5276596
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.4851064
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.336443
+  brandStrength: 0.4077355
+  rhythmicContrast: 0.7847691
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.4077355
   lightness: 0.5741251
-  saturation: 0.336443
-  rhythmicContrast: 0.7847691
 purpose: []
+favicon: null
+name: Malakhi
+typography_spectrum: 0.5276596
