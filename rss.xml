@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Malakhi]]></title>
         <description><![CDATA[Malakhi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://malakhisimmons.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 22:10:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jul 2016 18:51:37 GMT</lastBuildDate>
+        <atom:link href="http://malakhisimmons.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Malakhi's First Job (pc: John Simmons ASC)]]></title>
             <description><![CDATA[<article><h1>Malakhi's First Job (pc: John Simmons ASC)</h1><p>Biography of Malakhi Simmons</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4c08561c175bbbc0e6956e07fa5fe7173745bc1.jpg"></article>]]></description>
-            <link>undefinedbiography/index.html</link>
+            <link>http://malakhisimmons.com/biography/index.html</link>
             <guid isPermaLink="false">9e51eb43-d47f-44e8-9373-5d33733d8fba</guid>
             <pubDate>Mon, 18 Jul 2016 22:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a54c824-588c-4d67-8601-bc16253dc202.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a54c824-588c-4d67-8601-bc16253dc202.jpg</link>
+            <guid isPermaLink="false">0fd2dee9-6d45-4aa3-991e-eff17f5d5f78</guid>
+            <pubDate>Mon, 25 Jul 2016 18:51:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
