@@ -1,7 +1,32 @@
-name: Malakhi
-favicon: null
-layout_spectrum: 0.4851064
 typography_spectrum: 0.5276596
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4077355
+  lightness: 0.5741251
+  saturation: 0.336443
+  rhythmicContrast: 0.7847691
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4851064
+analytics:
+  google: UA-71138804-1
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b2e453b-c831-49f3-ab2b-5c6c6e30dd47.png
+name: Malakhi
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -14,27 +39,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-71138804-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.4077355
-  lightness: 0.5741251
-  saturation: 0.336443
-  rhythmicContrast: 0.7847691
 purpose: []
