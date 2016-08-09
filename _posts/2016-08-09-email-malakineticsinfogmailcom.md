@@ -1,18 +1,25 @@
 ---
-datePublished: '2016-08-09T21:48:39.595Z'
-isBasedOnUrl: 'https://twitter.com/malakinetics'
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+keywords: []
+description: 'Email: malakinetics.info@gmail.com'
+datePublished: '2016-08-09T21:51:17.835Z'
+dateModified: '2016-08-09T21:51:07.811Z'
 author: []
 via: {}
-dateModified: '2016-08-09T21:47:13.305Z'
 title: ''
-publisher: {}
-description: 'Email: malakinetics.info@gmail.com'
-starred: false
 sourcePath: _posts/2016-08-09-email-malakineticsinfogmailcom.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+url: contact/index.html
+_type: WebPage
 
 ---
 Email: malakinetics.info@gmail.com
