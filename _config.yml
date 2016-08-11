@@ -30,6 +30,9 @@ navigation:
   - name: Biography
     id: 9c4a8b3e-520f-4163-886d-9abbf5b8aaed
     type: content
+  - name: Contact
+    id: 1f705e79-b7d8-4010-9fa0-1733a97ce621
+    type: content
 favicon: null
 collections:
   - index:
